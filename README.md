@@ -4,10 +4,10 @@
 
 **A decoupled full-stack network monitoring dashboard built with a modern architecture, real-time metrics, and realistic static data.**
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-Frontend-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Styling-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Python](https://docs.python.org/3/whatsnew/3.14.html)
+![FastAPI](https://fastapi.tiangolo.com/)
+![Next.js](https://nextjs.org/docs)
+![Tailwind CSS](https://tailwindcss.com/docs/installation/using-vite)
 ![Recharts](https://img.shields.io/badge/Recharts-Data_Viz-FF6384?style=for-the-badge)
 
 </div>
